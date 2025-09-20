@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Saya Adridinan Najmi Faza</h1>
+<h1 align="center">Hi 👋, Saya Wafi Abdul Wahid Ar Rafai</h1>
 <h3 align="center">Saya seorang mahsiswa Informatika Universitas Jenderal Soedirman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wafi-del&label=Profile%20views&color=0e75b6&style=flat" alt="wafi-del" /> </p>
