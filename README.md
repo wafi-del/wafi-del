@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'M Wafi Abdul Wahid Ar Rafai</h1>
-<h3 align="center">Undergraduate Informatics Student at Jenderal Soedirman University</h3>
+<h3 align="center">Undergraduate Informatics Student at Universitas Jenderal Soedirman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wafi-del&label=Profile%20views&color=0e75b6&style=flat" alt="wafi-del" /> </p>
 
